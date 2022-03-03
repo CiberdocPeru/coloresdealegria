@@ -1,0 +1,27 @@
+
+
+video {
+  object-fit: cover;
+  position: relative;
+  top: 0;
+  left: 11%;
+  height: auto;
+  width: 79%;
+ 
+}
+.video-wrapper {
+  
+  width: 100%;
+  height: auto;
+  position: relative;
+  text-align: center;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+.header{
+  position: relative;
+  color: white;
+  text-shadow: 1px 1px 8px rgba(0,0,0,0.6);
+}
+
