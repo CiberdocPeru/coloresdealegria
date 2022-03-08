@@ -56,7 +56,7 @@ object-fit: contain;
 }
 
 .header-content h1 {
-  font-size: 50px;
+  font-size: 3.5rem;
   margin-bottom: 0;
   font-family: 'Lobster', cursive;
   background: #FF0000;
@@ -69,7 +69,7 @@ background: linear-gradient(to right, #FF0000 0%, #FF0000 25%, #FFFF00 50%, #05C
 }
 
 .header-content p {
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   display: block;
   padding-bottom: 2rem;
   color: #FFFF00;
