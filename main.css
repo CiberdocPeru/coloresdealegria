@@ -86,7 +86,7 @@ background: linear-gradient(to right, #FF0000 0%, #FF0000 25%, #FFFF00 50%, #05C
   border-radius: 32px;
 }
 
-@media (max-width: 960px) {
+@media (max-width: 720px) {
   .content {
     padding: 0 3rem 0 3rem;
   }
