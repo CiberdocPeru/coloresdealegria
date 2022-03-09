@@ -61,12 +61,7 @@ li a.active, li a:hover{
   z-index: -2;
 }
 
-section{
-    background: url(fondo.jpg) no-repeat;
-    background-size: cover;
-    background-position: center center;
-    height: calc(100vh - 80px);
-}
+
 
 @media (max-width: 952px){
     .enlace{
