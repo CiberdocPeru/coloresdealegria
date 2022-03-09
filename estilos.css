@@ -7,10 +7,13 @@
 }
 
 nav{
-    background: #2fcdcd;
     height: 80px;
     width: 100%;
+    background: -webkit-linear-gradient(to right, #FF0000 0%, #FF0000 25%, #05C1FF 50%, #FFFF00 75%, #FF0000 100%);
+background: -moz-linear-gradient(to right, #FF0000 0%, #FF0000 25%, #FFFF00 50%, #05C1FF 75%, #FF0000 100%);
+background: linear-gradient(to right, #FF0000 0%, #FF0000 25%, #FFFF00 50%, #05C1FF 75%, #FF0000 100%);
 }
+
 .enlace{
     position: absolute;
     padding: 20px 50px;
